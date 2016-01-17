@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="MyMusicPlayer\MyMusicPlayer.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_19" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyMusicPlayer\MainActivity.cs">
+    <Files>
+      <File FileName="MyMusicPlayer\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="MyMusicPlayer\MusicService.cs" Line="1" Column="1" />
+      <File FileName="MyMusicPlayer\Fragments\SongListFragment.cs" Line="1" Column="1" />
+      <File FileName="MyMusicPlayer\Fragments\SongDetailFragment.cs" Line="1" Column="1" />
+      <File FileName="MyMusicPlayer\Adapters\SongsAdapter.cs" Line="1" Column="1" />
+      <File FileName="MyMusicPlayer\Model\Song.cs" Line="1" Column="1" />
+      <File FileName="MyMusicPlayer\Properties\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="MyMusicPlayer\MusicRetrieval.cs" Line="1" Column="1" />
+      <File FileName="MyMusicPlayer\Model\Songleton.cs" Line="1" Column="1" />
+      <File FileName="MyMusicPlayer\Fragments\MusicControlFragment.cs" Line="37" Column="37" />
+      <File FileName="MyMusicPlayer\MusicController.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyMusicPlayer AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

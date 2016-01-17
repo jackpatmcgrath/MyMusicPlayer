@@ -1,0 +1,14 @@
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\MyMusicPlayer.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\Cheeseknife.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\Mono.Android.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\mscorlib.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\Square.OkHttp.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\Square.OkIO.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\Square.Picasso.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\System.Core.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\System.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\System.Xml.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\Xamarin.Insights.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\System.Runtime.Serialization.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\System.ServiceModel.Internals.dll
+F:\My Documents\Work\Misc\MyMusicPlayer\MyMusicPlayer\obj\Debug\assemblies\System.Net.Http.dll
